@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Хранилище VasilievMAModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Clients">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FIO" Type="nvarchar" MaxLength="100" />
+          <Property Name="PHONE_NUMBER" Type="nvarchar" MaxLength="12" />
+        </EntityType>
+        <EntityType Name="RoomClient">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID_CLIENT" Type="int" />
+          <Property Name="ID_ROOM" Type="int" />
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Rooms">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="BEDS" Type="int" />
+          <Property Name="CLASS" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <Association Name="FK__RoomClien__ID_CL__1F98B2C1">
+          <End Role="Clients" Type="Self.Clients" Multiplicity="0..1" />
+          <End Role="RoomClient" Type="Self.RoomClient" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Clients">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="RoomClient">
+              <PropertyRef Name="ID_CLIENT" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__RoomClien__ID_RO__208CD6FA">
+          <End Role="Rooms" Type="Self.Rooms" Multiplicity="0..1" />
+          <End Role="RoomClient" Type="Self.RoomClient" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Rooms">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="RoomClient">
+              <PropertyRef Name="ID_ROOM" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Хранилище VasilievMAModelContainer">
+          <EntitySet Name="Clients" EntityType="Self.Clients" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="RoomClient" EntityType="Self.RoomClient" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Rooms" EntityType="Self.Rooms" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__RoomClien__ID_CL__1F98B2C1" Association="Self.FK__RoomClien__ID_CL__1F98B2C1">
+            <End Role="Clients" EntitySet="Clients" />
+            <End Role="RoomClient" EntitySet="RoomClient" />
+          </AssociationSet>
+          <AssociationSet Name="FK__RoomClien__ID_RO__208CD6FA" Association="Self.FK__RoomClien__ID_RO__208CD6FA">
+            <End Role="Rooms" EntitySet="Rooms" />
+            <End Role="RoomClient" EntitySet="RoomClient" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="VasilievMAModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Clients">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FIO" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="PHONE_NUMBER" Type="String" MaxLength="12" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="RoomClient" Relationship="Self.FK__RoomClien__ID_CL__1F98B2C1" FromRole="Clients" ToRole="RoomClient" />
+        </EntityType>
+        <EntityType Name="RoomClient">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID_CLIENT" Type="Int32" />
+          <Property Name="ID_ROOM" Type="Int32" />
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <NavigationProperty Name="Clients" Relationship="Self.FK__RoomClien__ID_CL__1F98B2C1" FromRole="RoomClient" ToRole="Clients" />
+          <NavigationProperty Name="Rooms" Relationship="Self.FK__RoomClien__ID_RO__208CD6FA" FromRole="RoomClient" ToRole="Rooms" />
+        </EntityType>
+        <EntityType Name="Rooms">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="BEDS" Type="Int32" />
+          <Property Name="CLASS" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="RoomClient" Relationship="Self.FK__RoomClien__ID_RO__208CD6FA" FromRole="Rooms" ToRole="RoomClient" />
+        </EntityType>
+        <Association Name="FK__RoomClien__ID_CL__1F98B2C1">
+          <End Role="Clients" Type="Self.Clients" Multiplicity="0..1" />
+          <End Role="RoomClient" Type="Self.RoomClient" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Clients">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="RoomClient">
+              <PropertyRef Name="ID_CLIENT" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__RoomClien__ID_RO__208CD6FA">
+          <End Role="Rooms" Type="Self.Rooms" Multiplicity="0..1" />
+          <End Role="RoomClient" Type="Self.RoomClient" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Rooms">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="RoomClient">
+              <PropertyRef Name="ID_ROOM" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DBMod_Hotel" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Clients" EntityType="Self.Clients" />
+          <EntitySet Name="RoomClient" EntityType="Self.RoomClient" />
+          <EntitySet Name="Rooms" EntityType="Self.Rooms" />
+          <AssociationSet Name="FK__RoomClien__ID_CL__1F98B2C1" Association="Self.FK__RoomClien__ID_CL__1F98B2C1">
+            <End Role="Clients" EntitySet="Clients" />
+            <End Role="RoomClient" EntitySet="RoomClient" />
+          </AssociationSet>
+          <AssociationSet Name="FK__RoomClien__ID_RO__208CD6FA" Association="Self.FK__RoomClien__ID_RO__208CD6FA">
+            <End Role="Rooms" EntitySet="Rooms" />
+            <End Role="RoomClient" EntitySet="RoomClient" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище VasilievMAModelContainer" CdmEntityContainer="DBMod_Hotel">
+          <EntitySetMapping Name="Clients">
+            <EntityTypeMapping TypeName="VasilievMAModel.Clients">
+              <MappingFragment StoreEntitySet="Clients">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="FIO" ColumnName="FIO" />
+                <ScalarProperty Name="PHONE_NUMBER" ColumnName="PHONE_NUMBER" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="RoomClient">
+            <EntityTypeMapping TypeName="VasilievMAModel.RoomClient">
+              <MappingFragment StoreEntitySet="RoomClient">
+                <ScalarProperty Name="ID_CLIENT" ColumnName="ID_CLIENT" />
+                <ScalarProperty Name="ID_ROOM" ColumnName="ID_ROOM" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Rooms">
+            <EntityTypeMapping TypeName="VasilievMAModel.Rooms">
+              <MappingFragment StoreEntitySet="Rooms">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="BEDS" ColumnName="BEDS" />
+                <ScalarProperty Name="CLASS" ColumnName="CLASS" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

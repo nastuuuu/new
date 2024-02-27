@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VasilievMAModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Clients">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FIO" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="PHONE_NUMBER" Type="String" MaxLength="12" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="RoomClient" Relationship="Self.FK__RoomClien__ID_CL__1F98B2C1" FromRole="Clients" ToRole="RoomClient" />
+  </EntityType>
+  <EntityType Name="RoomClient">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID_CLIENT" Type="Int32" />
+    <Property Name="ID_ROOM" Type="Int32" />
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Clients" Relationship="Self.FK__RoomClien__ID_CL__1F98B2C1" FromRole="RoomClient" ToRole="Clients" />
+    <NavigationProperty Name="Rooms" Relationship="Self.FK__RoomClien__ID_RO__208CD6FA" FromRole="RoomClient" ToRole="Rooms" />
+  </EntityType>
+  <EntityType Name="Rooms">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BEDS" Type="Int32" />
+    <Property Name="CLASS" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="RoomClient" Relationship="Self.FK__RoomClien__ID_RO__208CD6FA" FromRole="Rooms" ToRole="RoomClient" />
+  </EntityType>
+  <Association Name="FK__RoomClien__ID_CL__1F98B2C1">
+    <End Role="Clients" Type="Self.Clients" Multiplicity="0..1" />
+    <End Role="RoomClient" Type="Self.RoomClient" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clients">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="RoomClient">
+        <PropertyRef Name="ID_CLIENT" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__RoomClien__ID_RO__208CD6FA">
+    <End Role="Rooms" Type="Self.Rooms" Multiplicity="0..1" />
+    <End Role="RoomClient" Type="Self.RoomClient" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rooms">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="RoomClient">
+        <PropertyRef Name="ID_ROOM" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DBMod_Hotel" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Clients" EntityType="Self.Clients" />
+    <EntitySet Name="RoomClient" EntityType="Self.RoomClient" />
+    <EntitySet Name="Rooms" EntityType="Self.Rooms" />
+    <AssociationSet Name="FK__RoomClien__ID_CL__1F98B2C1" Association="Self.FK__RoomClien__ID_CL__1F98B2C1">
+      <End Role="Clients" EntitySet="Clients" />
+      <End Role="RoomClient" EntitySet="RoomClient" />
+    </AssociationSet>
+    <AssociationSet Name="FK__RoomClien__ID_RO__208CD6FA" Association="Self.FK__RoomClien__ID_RO__208CD6FA">
+      <End Role="Rooms" EntitySet="Rooms" />
+      <End Role="RoomClient" EntitySet="RoomClient" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

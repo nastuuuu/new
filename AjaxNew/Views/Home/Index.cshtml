@@ -1,0 +1,84 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<a href="/Home/GetWord">Get Word</a>
+<input type="text" id="searchName" />
+<br />
+<table id="SearchResultTable" border="1">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">FIO</th>
+            <th scope="col">Phone Number</th>
+            <th scope="col">Room</th>
+            <th scope="col">Class</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.SearchData)
+        {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.Fio</td>
+                <td>@item.PhoneNumber</td>
+                <td>@item.Room</td>
+                <td>@item.RoomClass</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<input type="text" id="delId" />
+<button id="delBtn">Удалить</button> <br />
+<p>Клиент  <input type="text" id="clientID" /> <br /><p />
+<p>Комната  <input type="text" id="roomID" /><p />
+<button id="addBtn">Добавить запись</button>
+<script>
+    var saveBtn = document.getElementById("wordSave");
+    var inputText = document.getElementById("searchName");
+    function changeOption() {
+        var txt = inputText.value;
+        $.ajax({
+            url: '/Home/Index?pattern=' + txt,
+            type: 'GET',
+            success: function (data) {
+                $("#SearchResultTable tbody tr").remove();
+                for (let i = 0; i < data.length; i++) {
+                    $('#SearchResultTable > tbody:last-child').append('<tr><th scope"row">'
+                        + data[i].ID + '</td><td>'
+                        + data[i].Fio + '</td><td>'
+                        + data[i].PhoneNumber + '</td><td>'
+                        + data[i].Room + '</td><td>'
+                        + data[i].RoomClass + '</td>');
+                }
+            }
+        });
+    }
+    function delR() {
+        var indx = delId.value;
+        $.ajax({
+            url: '/Home/DeleteRow?delId=' + indx,
+            type: 'GET',
+            success: function () {
+                changeOption()
+            }
+        });
+    }
+    function addR() {
+        var clid = clientID.value;
+        var roid = roomID.value;
+        $.ajax({
+            url: '/Home/AddRow?clientID=' + clid + '&roomId=' + roid,
+            type: 'GET',
+            success: function () {
+                changeOption()
+            }
+        });
+    }
+    inputText.addEventListener("input", changeOption)
+    delBtn.addEventListener("click", delR)
+    addBtn.addEventListener("click", addR)
+
+</script>
+
+

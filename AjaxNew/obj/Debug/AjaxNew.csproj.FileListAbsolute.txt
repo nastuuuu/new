@@ -1,0 +1,279 @@
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\AjaxNew.dll.config
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\AjaxNew.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\AjaxNew.pdb
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\csc.exe
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\csc.exe.config
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\csc.rsp
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\csi.exe
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\csi.exe.config
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\csi.rsp
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.Managed.Core.targets
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.AppContext.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Collections.Immutable.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Console.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.IO.Compression.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.IO.FileSystem.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.IO.Pipes.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Reflection.Metadata.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Security.AccessControl.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Security.Claims.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Security.Principal.Windows.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.ValueTuple.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Xml.XmlDocument.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Xml.XPath.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\vbc.exe
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\vbc.exe.config
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\vbc.rsp
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\VBCSCompiler.exe
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\VBCSCompiler.exe.config
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\Antlr3.Runtime.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\EntityFramework.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\EntityFramework.SqlServer.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\Microsoft.Web.Infrastructure.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\Newtonsoft.Json.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.Helpers.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.Mvc.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.Optimization.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.Razor.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.WebPages.Deployment.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.WebPages.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.WebPages.Razor.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\WebGrease.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\EntityFramework.xml
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\EntityFramework.SqlServer.xml
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.Helpers.xml
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.Mvc.xml
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.Optimization.xml
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.Razor.xml
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.WebPages.xml
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.WebPages.Deployment.xml
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.WebPages.Razor.xml
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\Newtonsoft.Json.xml
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\Antlr3.Runtime.pdb
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\EntityFramework.resources.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\System.Web.Helpers.resources.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\System.Web.Mvc.resources.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\System.Web.Optimization.resources.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\System.Web.Razor.resources.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\System.Web.WebPages.resources.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\System.Web.WebPages.Deployment.resources.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\System.Web.WebPages.Razor.resources.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\obj\Debug\AjaxNew.csprojAssemblyReference.cache
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\obj\Debug\AjaxNew.csproj.CoreCompileInputs.cache
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\obj\Debug\AjaxNew.csproj.CopyComplete
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\obj\Debug\AjaxNew.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\obj\Debug\AjaxNew.pdb
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\obj\Debug\AjaxNew.csprojAssemblyReference.cache
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\obj\Debug\AjaxNew.csproj.CoreCompileInputs.cache
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\obj\Debug\AjaxNew.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\obj\Debug\AjaxNew.pdb
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\AjaxNew.dll.config
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\AjaxNew.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\AjaxNew.pdb
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\csc.exe
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\csc.exe.config
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\csc.rsp
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\csi.exe
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\csi.exe.config
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\csi.rsp
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.Managed.Core.targets
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.AppContext.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Collections.Immutable.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Console.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.IO.Compression.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.IO.FileSystem.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.IO.Pipes.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Reflection.Metadata.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Security.AccessControl.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Security.Claims.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Security.Principal.Windows.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.ValueTuple.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Xml.XmlDocument.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Xml.XPath.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\vbc.exe
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\vbc.exe.config
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\vbc.rsp
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\VBCSCompiler.exe
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\roslyn\VBCSCompiler.exe.config
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\Antlr3.Runtime.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\DocumentFormat.OpenXml.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\DocumentFormat.OpenXml.Framework.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\EntityFramework.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\EntityFramework.SqlServer.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\Microsoft.Web.Infrastructure.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\Newtonsoft.Json.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.Helpers.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.Mvc.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.Optimization.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.Razor.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.WebPages.Deployment.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.WebPages.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.WebPages.Razor.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\WebGrease.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\DocumentFormat.OpenXml.xml
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\DocumentFormat.OpenXml.Framework.xml
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\EntityFramework.xml
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\EntityFramework.SqlServer.xml
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.Helpers.xml
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.Mvc.xml
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.Optimization.xml
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.Razor.xml
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.WebPages.xml
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.WebPages.Deployment.xml
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\System.Web.WebPages.Razor.xml
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\Newtonsoft.Json.xml
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\Antlr3.Runtime.pdb
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\EntityFramework.resources.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\EntityFramework.SqlServer.resources.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\System.Web.Helpers.resources.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\System.Web.Mvc.resources.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\System.Web.Optimization.resources.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\System.Web.Razor.resources.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\System.Web.WebPages.resources.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\System.Web.WebPages.Deployment.resources.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\System.Web.WebPages.Razor.resources.dll
+H:\429195_2\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\obj\Debug\AjaxNew.csproj.CopyComplete
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\DocumentFormat.OpenXml.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\DocumentFormat.OpenXml.Framework.dll
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\DocumentFormat.OpenXml.xml
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\DocumentFormat.OpenXml.Framework.xml
+H:\ОТ 9.10\ИСРПО\Ajax\AjaxNew\AjaxNew\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\AjaxNew\AjaxNew\bin\AjaxNew.dll.config
+E:\AjaxNew\AjaxNew\bin\AjaxNew.dll
+E:\AjaxNew\AjaxNew\bin\AjaxNew.pdb
+E:\AjaxNew\AjaxNew\bin\roslyn\csc.exe
+E:\AjaxNew\AjaxNew\bin\roslyn\csc.exe.config
+E:\AjaxNew\AjaxNew\bin\roslyn\csc.rsp
+E:\AjaxNew\AjaxNew\bin\roslyn\csi.exe
+E:\AjaxNew\AjaxNew\bin\roslyn\csi.exe.config
+E:\AjaxNew\AjaxNew\bin\roslyn\csi.rsp
+E:\AjaxNew\AjaxNew\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\AjaxNew\AjaxNew\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\Microsoft.Managed.Core.targets
+E:\AjaxNew\AjaxNew\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\AjaxNew\AjaxNew\bin\roslyn\System.AppContext.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.Collections.Immutable.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.Console.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.IO.Compression.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.IO.FileSystem.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.IO.Pipes.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.Reflection.Metadata.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.Security.AccessControl.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.Security.Claims.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.Security.Principal.Windows.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.ValueTuple.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.Xml.XmlDocument.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.Xml.XPath.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\AjaxNew\AjaxNew\bin\roslyn\vbc.exe
+E:\AjaxNew\AjaxNew\bin\roslyn\vbc.exe.config
+E:\AjaxNew\AjaxNew\bin\roslyn\vbc.rsp
+E:\AjaxNew\AjaxNew\bin\roslyn\VBCSCompiler.exe
+E:\AjaxNew\AjaxNew\bin\roslyn\VBCSCompiler.exe.config
+E:\AjaxNew\AjaxNew\bin\Antlr3.Runtime.dll
+E:\AjaxNew\AjaxNew\bin\DocumentFormat.OpenXml.dll
+E:\AjaxNew\AjaxNew\bin\DocumentFormat.OpenXml.Framework.dll
+E:\AjaxNew\AjaxNew\bin\EntityFramework.dll
+E:\AjaxNew\AjaxNew\bin\EntityFramework.SqlServer.dll
+E:\AjaxNew\AjaxNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\AjaxNew\AjaxNew\bin\Microsoft.Web.Infrastructure.dll
+E:\AjaxNew\AjaxNew\bin\Newtonsoft.Json.dll
+E:\AjaxNew\AjaxNew\bin\System.Web.Helpers.dll
+E:\AjaxNew\AjaxNew\bin\System.Web.Mvc.dll
+E:\AjaxNew\AjaxNew\bin\System.Web.Optimization.dll
+E:\AjaxNew\AjaxNew\bin\System.Web.Razor.dll
+E:\AjaxNew\AjaxNew\bin\System.Web.WebPages.Deployment.dll
+E:\AjaxNew\AjaxNew\bin\System.Web.WebPages.dll
+E:\AjaxNew\AjaxNew\bin\System.Web.WebPages.Razor.dll
+E:\AjaxNew\AjaxNew\bin\WebGrease.dll
+E:\AjaxNew\AjaxNew\bin\DocumentFormat.OpenXml.xml
+E:\AjaxNew\AjaxNew\bin\DocumentFormat.OpenXml.Framework.xml
+E:\AjaxNew\AjaxNew\bin\EntityFramework.xml
+E:\AjaxNew\AjaxNew\bin\EntityFramework.SqlServer.xml
+E:\AjaxNew\AjaxNew\bin\System.Web.Helpers.xml
+E:\AjaxNew\AjaxNew\bin\System.Web.Mvc.xml
+E:\AjaxNew\AjaxNew\bin\System.Web.Optimization.xml
+E:\AjaxNew\AjaxNew\bin\System.Web.Razor.xml
+E:\AjaxNew\AjaxNew\bin\System.Web.WebPages.xml
+E:\AjaxNew\AjaxNew\bin\System.Web.WebPages.Deployment.xml
+E:\AjaxNew\AjaxNew\bin\System.Web.WebPages.Razor.xml
+E:\AjaxNew\AjaxNew\bin\Newtonsoft.Json.xml
+E:\AjaxNew\AjaxNew\bin\Antlr3.Runtime.pdb
+E:\AjaxNew\AjaxNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\AjaxNew\AjaxNew\bin\ru\EntityFramework.resources.dll
+E:\AjaxNew\AjaxNew\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\AjaxNew\AjaxNew\bin\ru\System.Web.Helpers.resources.dll
+E:\AjaxNew\AjaxNew\bin\ru\System.Web.Mvc.resources.dll
+E:\AjaxNew\AjaxNew\bin\ru\System.Web.Optimization.resources.dll
+E:\AjaxNew\AjaxNew\bin\ru\System.Web.Razor.resources.dll
+E:\AjaxNew\AjaxNew\bin\ru\System.Web.WebPages.resources.dll
+E:\AjaxNew\AjaxNew\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\AjaxNew\AjaxNew\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\AjaxNew\AjaxNew\obj\Debug\AjaxNew.csprojAssemblyReference.cache
+E:\AjaxNew\AjaxNew\obj\Debug\AjaxNew.csproj.CoreCompileInputs.cache
+E:\AjaxNew\AjaxNew\obj\Debug\AjaxNew.csproj.CopyComplete
+E:\AjaxNew\AjaxNew\obj\Debug\AjaxNew.dll
+E:\AjaxNew\AjaxNew\obj\Debug\AjaxNew.pdb
